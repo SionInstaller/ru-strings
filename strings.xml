@@ -34,6 +34,7 @@
     <string name="flashbutton2txt">Установить выбранный .zip файл</string>
     <string name="flashbutton3txt">Выберите файл для удаления</string>
     <string name="flashbutton4txt">Удалить выбранный вами .zip\nпоставьте галочку, пожалуйста</string>
+    <string name="flashbutton5txt">Delete previously\ninstalled.zip</string>
     <string name="deleteflashTitle">Удаление файла Root</string>
     <string name="flashconfirmdel">пожалуйста, подтвердите удаление</string>
 
