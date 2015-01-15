@@ -69,6 +69,7 @@
     <string name="savecb">поставьте галочку, затем нажмите иконку сохранения и перезагрузите приложение</string>
     <string name="ticktoapply">Отметьте, чтобы включить тёмную тему Sion-а</string>
     <string name="ifyouwantdark">Если вы хотите, чтобы у Sion-а был тёмный интерфейс, тогда</string>
+    <string name="xdaText">Перейти в тему Sion-а на XDA.</string>
 
     <!-- About -->
     <string name="aboutTV2">Разработчик Steve Lovejoy </string>
@@ -77,9 +78,10 @@
 
     <!-- Changelog -->
     <string name="changelog">
-    \nВерсия 1.00
-    \nИсходная версия
+    \nВерсия 1.05
     \n
+    \nПосетите тему Sion-а на XDA.
+
     </string>
 
     <!-- Donations Screen -->
@@ -101,14 +103,20 @@
     <string name="light">Светлая</string>
     <string name="dark">Тёмная</string>
 
-    <!-- App Rater -->
-    <string name="ratereview">Пожалуйста оцените приложение и оставьте свой отзыв в \nGoogle Play Store </string>
-
     <!-- Misc -->
     <string name="content">Картинка</string>
     <string name="switchTitle">Sion</string>
     <string name="initdtitlechoose">Выберите файл</string>
     <string name="romtitlechoose">Выберите файлы</string>
     <string name="imageReference">это картинка</string>
+
+    <!-- App Rater -->
+    <string name="appirator_app_title">Sion</string>
+    <string name="appirator_market_url">market://details?id=%s</string>
+    <string name="rate_title">Оцените Sion</string>
+    <string name="rate_message">Если вам понравился Sion, не потратить ли вам минутку, чтобы оценить его? Спасибо за вашу поддержку!</string>
+    <string name="rate">Да, оценить Sion</string>
+    <string name="rate_later">Напомнить позже</string>
+    <string name="rate_cancel">Нет, спасибо</string>
 
 </resources>
